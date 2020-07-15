@@ -1,2 +1,2 @@
 #MyApp
-#Sample App name
+Sample App name
